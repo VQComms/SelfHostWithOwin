@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostWithOwin", "SelfHostWithOwin\SelfHostWithOwin.csproj", "{703E1E6D-0443-40BF-9057-F13BFB7BFB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703E1E6D-0443-40BF-9057-F13BFB7BFB16}.Debug|x86.ActiveCfg = Debug|x86
+		{703E1E6D-0443-40BF-9057-F13BFB7BFB16}.Debug|x86.Build.0 = Debug|x86
+		{703E1E6D-0443-40BF-9057-F13BFB7BFB16}.Release|x86.ActiveCfg = Release|x86
+		{703E1E6D-0443-40BF-9057-F13BFB7BFB16}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SelfHostWithOwin\SelfHostWithOwin.csproj
+	EndGlobalSection
+EndGlobal
